@@ -78,7 +78,7 @@ function getRandomText() {
   } else if (val > 8 && val <= 10) {
     return '表白宝宝';
   } else if (val > 10 && val <= 12) {
-    return '哈哈哈';
+    return '我爱你江珂欣';
   } else if (val > 12 && val <= 14) {
     return '爱你~';
   } else {
